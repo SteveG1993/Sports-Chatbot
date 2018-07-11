@@ -5,5 +5,5 @@ COPY requirements.txt ./
 RUN pip install --no-cache-dir -r requirements.txt
 
 
-ENV SLACK_TOKEN=''
-ENV SLACK_NAME=''
+ENV SLACK_TOKEN='xoxb-3171645816-395559020576-W9a5LBKekxmpnmQURZVCzd59'
+ENV SLACK_NAME='sports_chatbot'
