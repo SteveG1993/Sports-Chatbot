@@ -1,0 +1,3 @@
+slackclient
+numpy==1.14.4
+pandas==0.22.0
